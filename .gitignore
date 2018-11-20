@@ -1,0 +1,6 @@
+# Mac finder
+.DS_store
+# Eagle backup and lock files
+*.b#*
+*.s#*
+*.lck
